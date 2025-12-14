@@ -1,9 +1,9 @@
 # ML_Projects
 
 
-#Project Name  (Total: 22)	
-Difficulty     (Beginner, Intermediate, Advanced)
-Learning Value (Out of 10)
+**#Project Name  (Total: 22)	
+Difficulty       (Beginner, Intermediate, Advanced)
+Learning Value   (Out of 10)**
 
 
 1. Exploratory Data Analysis (EDA) Portfolio	
