@@ -14,11 +14,15 @@ Beginner
 
 Learning value: 5
 
+https://github.com/anishsingh19/ML_Projects/tree/main/Beginner/Exploratory%20Data%20Analysis%20(EDA)%20Portfolio
+
+
 ### 2. Iris Flower Classification	
 
 Beginner	
 
 Learning value: 6
+
 
 ### 3. Build Your Own Linear Regression 
 
