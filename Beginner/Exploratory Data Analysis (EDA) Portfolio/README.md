@@ -82,6 +82,10 @@ This exploratory analysis highlights how EDA helps in understanding medical data
 
 ---
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK)
+
+---
+
 ## 👤 Author
 Anish Singh
 
