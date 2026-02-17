@@ -1,0 +1,112 @@
+Day: 38, 40, 43, 55, 
+
+1 - What is Programming and Python? 
+2 - Power of Python (5 Programs) 
+3 - Modules and Pip (Read Evaluate Print Loop)
+4 - First Python Program 
+5 - Comments, Escape Sequence, Print Statement 
+6 - Variables and Data types 
+7 - Exercise#1 Calculator using Python 
+8 - Solution of Exercise#1 
+9 - Typecasting (conversion of one data type to another)
+10 - Taking User Input in Python 
+ 
+11 - Strings in Python 
+12 - Strings Slicing and Operations on Strings 
+13 - String Methods in Python 
+14 - If Else Conditional Statements in Python
+15 - Exercise#2 Good Morning Sir 
+16 - Match Case Statements (Switch Case) 
+17 - For Loops 
+18 - While Loops 
+19 - Break and Continue (Emulating Do While Loop)
+20 - Functions in Python 
+
+21 - Function Arguments in Python 
+22 - Introduction to List in Python (List Comprehension)
+23 - List Methods in Python 
+24 - Tuples 
+25 - Operations in Tuples in Python 
+26 - Solution of Exercise#2 (day 15) 
+27 - Exercise#3 KBC (Quiz based Program) 
+28 - f-strings in Python (String formatting) 
+29 - Docstrings and PEP-8 in Python  
+30 - Recursion in Python 
+
+31 - Sets in Python 
+32 - Set Methods in Python 
+33 - Dictionaries in Python 
+34 - Dictionary Methods in Python 
+35 - For Loop with else in Python 
+36 - Exception Handling in Python 
+37 - Finally Keyword in Python 
+38 - Raising Custom Errors in Python 
+39 - Solution of Exercise#3 (Day 27) 
+40 - Exercise#4 - Secret Code Language 
+
+41 - Short hand If else Statements 
+42 - Enumerate Function in Python 
+43 - 
+44 - 
+45 - 
+46 - 
+47 - 
+48 - 
+49 - 
+50 - 
+
+51 - 
+52 - 
+53 - 
+54 - 
+55 - 
+
+56 - Introduction to OOPs in Python 
+57 - 
+58 - 
+59 - 
+60 - 
+
+61 - 
+62 - 
+63 - 
+64 - 
+65 - 
+66 - 
+67 - 
+68 - 
+69 - 
+70 - 
+
+71 - 
+72 - 
+73 - 
+74 - 
+75 - 
+76 - 
+77 - 
+78 - 
+79 - 
+80 - 
+
+81 - 
+82 - 
+83 - 
+84 - 
+85 - 
+86 - 
+87 - 
+88 - 
+89 - 
+90 - 
+
+91 - 
+92 - 
+93 - 
+94 - 
+95 - 
+96 - 
+97 - 
+98 - 
+99 - 
+100 - 
